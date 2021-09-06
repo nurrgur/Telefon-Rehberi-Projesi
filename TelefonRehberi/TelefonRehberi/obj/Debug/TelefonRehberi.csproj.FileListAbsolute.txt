@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\Nur\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form2.resources
